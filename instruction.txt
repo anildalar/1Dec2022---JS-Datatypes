@@ -16,6 +16,11 @@ ECMA (European Computer Manufacturers Association))
 
 Netscape --->  ECMA
 
+Where you can write the CSS COde.
+
+1. External
+2. Inside Head tag
+3. Inline CSS
 
 Where you can write the JS Code ?
 
@@ -110,4 +115,26 @@ Ctrl + ` = Open terminal
 Associativity of the operator
 
 
-Plain Js == Core Js == Pure Js == Vanila Javascript == NodeJs
+Javascript == Plain Js == Core Js == Pure Js == Vanila Javascript == NodeJs
+
+
+Data Types
+
+
+'anil' + 'dollor'   Concatination Operator
+
+10 + 20             Addition OPerator
+
+There are 2 types of comment
+
+1. Single Line COmment
+
+			// Statement1
+			// Statement2
+2. Multi Line Comment
+		/* Some Comment */
+
+		
+
+
+
